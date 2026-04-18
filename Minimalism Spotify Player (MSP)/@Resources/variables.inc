@@ -1,0 +1,21 @@
+[Variables]
+FontColor=255,255,255,150
+BarColor=255,255,255,150
+BackgroundColor=0,0,0,100
+Width=372
+Height=130
+CoverSize=70
+CoverPad=12.5
+ProgW=356
+BarW=5.5
+BarH=45
+BarSpace=4.35
+ButtonAlpha=150
+TrackFont=Verdana
+TrackFontSize=9.75
+TimeFont=Segoe UI
+TimeFontSize=9
+ColBtnSize=16
+ColW=28
+ColH=28
+IsCollapsed=0
