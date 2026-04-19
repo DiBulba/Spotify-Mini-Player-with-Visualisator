@@ -21,26 +21,35 @@ This guide will help you set up the Minimal Spotify Visualizer to respond **only
    - **CABLE Input** - Where audio goes IN (Spotify sends audio here)
    - **CABLE Output** - Where audio goes OUT (you listen from here)
 
-### Step 2: Route Spotify to Virtual Cable
+### Step 2: Route Spotify to Virtual Cable using EarTrumpet
 
-**Using EarTrumpet (Recommended):**
+1. **Find the sound mixer icon in Windows system tray** (speaker icon at the bottom right)
 
-1. Open EarTrumpet from Start menu
-2. Find **Spotify** in the list
-3. Click on it and select **CABLE Input** as output device
-4. Now Spotify audio only goes to Virtual Cable, not to speakers
+<img width="130" height="70" alt="image" src="https://github.com/user-attachments/assets/3af914b8-d9c9-4cbe-ac8d-4316c57abae4" />
 
-**Without EarTrumpet:**
 
-1. Right-click speaker icon in taskbar → **Open Volume mixer**
-2. Under "App volume and device preferences"
-3. Find Spotify → Click it
-4. Change output to **CABLE Input**
+2. **Right-click on the speaker icon** and select **"EarTrumpet Volume mixer"**
+
+<img width="261" height="218" alt="image" src="https://github.com/user-attachments/assets/a249a643-3647-493b-9830-177dd9cb2994" />
+
+
+3. **The EarTrumpet volume mixer window will open**
+
+4. **Find Spotify in the list of applications** and **right-click on it**
+
+5. **In the context menu, select the option to choose output device**
+
+  <img width="720" height="404" alt="image" src="https://github.com/user-attachments/assets/f35be5e3-1501-4422-9bc3-4e765680c4cd" />
+
+
+7. **Select "CABLE Input (VB-Audio Virtual Cable)"** from the list of available devices
+
+Now Spotify audio only goes to Virtual Cable, not to your main speakers!
 
 ### Step 3: Set Virtual Cable Output to Your Speakers
 
-1. Right-click speaker icon → **Sound settings**
-2. Under "Advanced" → "Volume mixer"
+1. Right-click speaker icon in taskbar → **Sound settings**
+2. Scroll down → **Advanced** → **Volume mixer**
 3. Find **CABLE Output** 
 4. Set it to output to your speakers or headphones
 5. (Optional) You can enable "Listen to this device" if you want to hear Spotify through your microphone
@@ -65,7 +74,7 @@ This guide will help you set up the Minimal Spotify Visualizer to respond **only
 
 If it's not working:
 - Make sure CABLE Input is selected (green button)
-- Make sure Spotify is set to output to CABLE Input
+- Make sure Spotify is set to output to CABLE Input via EarTrumpet
 - Restart the visualizer skin (right-click → Refresh)
 
 ## Troubleshooting
@@ -75,7 +84,7 @@ If it's not working:
 - Make sure VB-Cable is installed and working
 
 ### Visualizer still reacts to all sounds
-- Check that Spotify output is set to CABLE Input (not your speakers)
+- Check that Spotify output is set to CABLE Input via EarTrumpet
 - Make sure you selected the right cable in Settings
 - Try clicking "Use default" then selecting CABLE Input again
 
