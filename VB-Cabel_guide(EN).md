@@ -8,7 +8,7 @@ This guide will help you set up the Minimal Spotify Visualizer to respond **only
 
 1. **VB-Audio Virtual Cable** (free) - [Download here](https://vb-audio.com/Cable/index.htm)
 2. **Rainmeter** - [Download here](https://www.rainmeter.net/)
-3. **EarTrumpet** (recommended, free) - [Download here](https://www.microsoft.com/en-us/p/eartrumpet/9nblggh516ft)
+3. **EarTrumpet** (recommended, free) - [Download here](https://apps.microsoft.com/detail/9nblggh516xp?hl=ru-RU&gl=RU)
 4. **Minimal Spotify Visualizer** - Already installed with this skin
 
 ## Step-by-Step Setup
