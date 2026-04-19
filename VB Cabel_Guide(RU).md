@@ -8,7 +8,7 @@
 
 1. **VB-Audio Virtual Cable** (бесплатно) - [Скачать](https://vb-audio.com/Cable/index.htm)
 2. **Rainmeter** - [Скачать](https://www.rainmeter.net/)
-3. **EarTrumpet** (рекомендуется, бесплатно) - [Скачать](https://www.microsoft.com/en-us/p/eartrumpet/9nblggh516ft)
+3. **EarTrumpet** (рекомендуется, бесплатно) - [Скачать](https://apps.microsoft.com/detail/9nblggh516xp?hl=ru-RU&gl=RU)
 4. **Minimal Spotify Visualizer** - Уже установлен с этим скином
 
 ## Пошаговая настройка
