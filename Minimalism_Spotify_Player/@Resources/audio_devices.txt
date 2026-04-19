@@ -1,5 +1,0 @@
-Набор микрофонов (Realtek Audio)|{0.0.1.00000000}.{E43373A5-86A2-4446-BBB2-E4A71BB16231}
-CABLE Input (VB-Audio Virtual Cable)|{0.0.0.00000000}.{6F309765-C013-4155-8077-C8D3EBA21CC5}
-CABLE Output (VB-Audio Virtual Cable)|{0.0.1.00000000}.{755FAB84-037D-4028-AC31-51E0D39A9D14}
-Программный синтезатор звуковой таблицы Microsoft|MICROSOFTGSWAVETABLESYNTH
-Динамики / головные телефоны (Realtek Audio)|{0.0.0.00000000}.{4CF4A6E8-589D-49A3-B747-1ABE588796D7}
